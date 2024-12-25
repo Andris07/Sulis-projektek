@@ -1,1 +1,1 @@
-2024-2025 tanév szakmai tantárgyak
+2024-2025 tanév Szakmai tantárgyak
