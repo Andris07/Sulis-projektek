@@ -1,0 +1,650 @@
+Bodnar Szilvia;78
+Rasztik Gyorgy;52
+Muller Reka;22
+Maltesics Fanni;76
+Csermak Edit;13
+Somlyo Ildiko;71
+Boros Petra;25
+Gaal Daniel;69
+Hirth Ferenc;52
+Nagy Katalin;48
+Csepregi Daniel;63
+Kovacs Orsolya;51
+Refi Csaba;32
+Denes Anna;33
+Szabo Brigitta;58
+Huszar Renato Pal;39
+Kovacs Zsofia;3
+Vavrek Kristof;67
+Hidas Reka;3
+Kun Michael;82
+Ruff Noemi;45
+Berze Eva;83
+Endredy Lakatos Margit;61
+Salanki Eszter Rita;57
+Magyar Vivien Evelin;82
+Csermak Roza;84
+Barta Gergo;35
+Dobos Andras;19
+Magat Klaudia;32
+Schmidt Borbala;94
+Szabo Mihaly;26
+Boganyi Margaret;13
+Weidinger Peter;32
+Petrik Zsofia;53
+Tolcsvay-Nagy Reka Luca;74
+Fabian Aniko;43
+Berndt Martin;46
+Matefi Mercedesz;28
+Matefi Emese;70
+Orso Andras;97
+Varga Zsuzsa;76
+Farkas Zsuzsa;0
+Romhanyi Daniel Robert;7
+Falvay Zsanett;8
+Szentes Zoltan;44
+Csepregi Gyorgy;72
+Romhanyi Rebeka;99
+Laczko Reka;21
+Kardos Istvan;86
+Janosi Mihaly;89
+Farkas Steven;19
+Horvath Janet;88
+Csaba Dora;78
+Kucsera Jesus;27
+Csepregi Mihaly;35
+LotsosRicky Kinga;95
+Hozman Richard;91
+Rasztik Dora;65
+Dohoczki Maria;95
+Maller Akos;30
+Bene Eszter;35
+Wagner Endre;5
+Bengi Sandor;37
+Lehotzky Oliver;59
+Bakos Reka;22
+Varga Zsofia;50
+Hangyasi Kristof;18
+Gonda Gyorgy;79
+Stang Tamas;59
+Nemeth Tamas;15
+Tapai Anne;94
+Deri Dina;76
+Madarasz Edina;98
+Lemak Veronika;6
+Kiraly Balint;5
+Kovacs Krisztina Judit;44
+Homola Sandor;75
+Dettai Felicia;52
+Novak Beata;13
+Hirth Janos;9
+Nagymarosy Natalie;85
+Mattyus Balazs;14
+Gonda Bela;33
+Wagner Istvan;43
+Hegyi Roza;74
+Hatala Roza;38
+Vaszil Krisztina;35
+Vanyur Reka;5
+Bajor Mark;18
+Kriszten David;80
+Molnar Adam;52
+Palinkas Antal;81
+Bruder Barbara;34
+Pifku Bence;40
+Joo Peter;62
+Kiss Beatrix;71
+Sandor Miklos;64
+Berezvai Jozsef;49
+Lehotzky Arthur;87
+Mangult Bettina;94
+Joo Krisztian;53
+Sitku Natalia;20
+Bodnar Richard;62
+Szabo David;71
+Wolff Viktoria;96
+Varga Gergely;44
+Monostori Mihaly;91
+Balogh Dora;72
+Nagy Judit;21
+Kulcsar Tamas;91
+Hangyasi Boglarka;19
+Kovacs Gabor;39
+Pridalko Vilmos;51
+Kovacs Aron;86
+Buchanan Zoltan Csaba;46
+Molnar Viktoria;20
+Fule Noemi;72
+Erdohelyi Csilla;94
+Renyi Ferenc;86
+Kophazi Ildiko;84
+Kis Viktoria;14
+Fuller Zsuzsanna;13
+Csanyi Zsuzsa;61
+Sarvari Piroska;80
+Balazs Pal;64
+Mezo Sandor;12
+Wellington Tunde;42
+Gombos Beata;58
+Bordas Vivien Evelin;45
+Kocsis Gergo;35
+Callahan Kitti;80
+Bodor Bettina;26
+Schiller Krisztina;66
+Balogh Agnes;19
+Vadkerti Viktoria;56
+Lehotzky Gabor;65
+Keri Marta;52
+Sarosdi Dora;63
+Hargitai Ildiko;48
+Mate Aron;29
+Stang Istvan;47
+Pal Janos;64
+Negyesi Attila;85
+Szalma Diana;27
+Szabo Jesus;60
+Tapay Janos Tamas;12
+Balazs Istvan;29
+Bogar Marta;48
+Toman Istvan;94
+Balogh Edina;41
+Nemeth Diana;99
+Lehotzky Adam Gabor;70
+Karatson Kristof;63
+Batkai Kinga;2
+Domokos Tunde;79
+Barkasz Csilla;40
+Hidas Zoltan Csaba;59
+Bohdaneczky Adrienn;83
+Hamza Vivien;6
+Valo Adam Gabor;84
+Mate Laszlo;2
+Bodnar Emese;33
+Jedlovszky Gellert Sandor;26
+Takacs Melinda;86
+Barta Gergo;10
+Somlyo Steven;93
+Lehotzky Janos;73
+Kiss Reka;32
+Hatala Ilona;29
+Nagy Janos;82
+Szekely Mate;68
+King Mercedesz;9
+Szabados Viktoria;46
+Tompos Adam Gabor;57
+Bauer Krisztina;36
+Major Anna;51
+Gyocsi Ildiko;29
+Fulop Tamas;34
+Vajda Fruzsina Borbala;19
+Magat Noemi;51
+Schmidt Andras;83
+Pinter Sandor;94
+Kiraly Istvan;64
+Bruder Krisztina;3
+Mattyus Diana;37
+Gerse Andras;9
+Elek Balazs;64
+Batkai Antal;64
+Csepregi Korl;40
+Dylski Judit;16
+Bodi Monika;5
+Kovacs Leila;70
+Rabai Viktoria;57
+Bolyos Borbala;64
+Ignacz Mercedesz Marta;26
+Bodor Klara;14
+Batkai Szabina;37
+Katona Boglarka;99
+Gaal Peter;16
+Kovacs Jozsef;68
+Domokos Krisztina;40
+TolcsvayNagy Daniel Robert;98
+Fialowski Olga Zsofia;19
+Kiraly Zoltan;12
+Csermak Henrik;73
+Ivancsik Edit;89
+Vagner Peter;24
+Elbert Bence;6
+Kun David;66
+Farkas Tunde;28
+Pazmany Emese;11
+Iszaly Karoly;25
+Bihacker Szabolcs Tivadar;63
+Karatson Patricia Mercedesz;55
+Laczkovics Lakatos Margit;0
+Kovacs Reka;9
+Ihasz Bernadett;70
+Molnar Krisztina;23
+Komlos Lakatos Margit;49
+Miskolczi Reka;0
+Borka Adam Gabor;29
+Hollos Eva;8
+Szalma Erno;92
+Bodnar Gyula;12
+Krizsan Adrienn;76
+Fekete Szilvia;99
+her Karoly;52
+Prokopp Reka;82
+Toman Zsofia;30
+Pazmany Alessandro;22
+Simon Szabolcs Tivadar;14
+Kuller Andrea;30
+Bognar Frank;17
+Szalma Luca Krisztina;52
+Keri Julio;10
+Beres Zoltan;85
+Farkas Janet;74
+Komlos Zoltan;52
+Wootsch Gergely;30
+Lehotzky Dorottya;48
+Valo Istvan;86
+Bilicska Daniel Robert;57
+Bako Balazs Istvan;98
+Vari Renata;12
+Callahan Attila;5
+Antalfi Akos;81
+Miller Gabor;7
+Lemak Andrea;1
+Csanyi Zsuzsa;64
+Csetnegi Andre;16
+Cselotei Balazs;45
+Voros Kitti Noemi;13
+Denes Ildiko;50
+Czulek Gyorgy;15
+Berze Dalma;38
+Lendvai Gyula;32
+Kelan Istvan;6
+Boka Daniel Andras;6
+Pinter Tunde;36
+Peter Fruzsina;75
+Pazmany Kristof;37
+Arkossy Daniel;42
+Berzlanovich Imre;77
+Denes Zsuzsa;44
+Bakos Gergely;13
+Hegedus Tamas;81
+Banfi Akos;7
+Kovacs Laura;10
+Denes Gyorgy;44
+Horvath Gyorgy;15
+Klezly Bettina;36
+Szabo Ildiko;17
+Barkasz Katalin;93
+Goldberg Marta;0
+Farkas Gyorgy;15
+Emho Petra;72
+Koschler Tamas;11
+Madarasz Nikolett;79
+Lemak Janos;7
+Kovacs Lajos;96
+Orso Christopher;92
+Prokopp Viktoria;51
+Beke Andras;18
+Denes Anna;13
+Zsigmondi Zoltan;78
+Csetnegi Szilvia;0
+Ruff Gabor;81
+Szabo Attila;2
+Fried Tamas;13
+Szabo Allan;79
+Forgacs Richard;79
+Arkossy Reka;67
+Hangyasi Gyula;15
+Hegedus Agnes;56
+Malovics Reka Luca;11
+Molnar Tamas;44
+Illyes Erno;81
+Cselotei Maria;54
+Toman Beatrix;100
+Meszaros Andrea;24
+Totka Gergo;74
+Mitlasovszki Mercedesz;97
+Horvath Csilla Livia;58
+Scholz Akos;48
+Farkas Edit;81
+Unk Anne;27
+Monostori Gergo;21
+Feher Viktoria;49
+Gombor Thomas;0
+Saghy Istvan;66
+Katona Peter;20
+Fialowski Szilvia;28
+Kovacs Jozsef;99
+Wellington Peter;41
+Suyama Krisztian;84
+Unk Eszter;86
+Kettesy Zsofia;23
+Illes Viktoria;63
+Peter Peter;66
+Fried Eszter Leticia;12
+Varga Brigitta;0
+Callahan Eszter;4
+Eszes Ildiko;97
+Mezo Istvan;65
+Pomothy Gyorgy;37
+Berndt Oliver;69
+Pinter Tunde;1
+Marton Richard;36
+Borka Edina;90
+Balogh Imre;71
+Alahrawi Balint;92
+Csaba Attila;58
+Homola Leila;79
+Palfi Leila;84
+Ivacs Zsolt;22
+Farkas Dora;95
+Mitlasovszki Eszter Adel;94
+Komlos Allan;71
+Szabo Janos Tamas;33
+Vido Jesus;50
+Csermenyi Balint;79
+Bilicska Gyorgy;31
+Berghoffer David;2
+Bohdaneczky Arthur;47
+Maller Attila;59
+Muller Karoly;51
+Mangult Reka;68
+Czmarko Istvan;75
+Jambrik Daniel;73
+Lukacs Viktor;25
+Bolyos Adam Ferenc;20
+Hermann Istvan;18
+Nagy Istvan;88
+Bekes Viktoria;87
+Elek Anne;24
+Balazs Nikolett;69
+Ilcsik Bence;100
+Saghy Dorottya;93
+Palfi Vilmos;10
+Berky Renato Pal;11
+Peacock Katalin;25
+Reyes Adrienn;85
+Kovacs Patrik;60
+Gulyas Krisztina;29
+Rakoczi Frank;75
+Barkasz Matyas;63
+Beres Gyula;49
+Pasztor Zsofia;15
+Mangult Akos;18
+Kovacs Sandor;89
+Banfi Patricia;93
+Orzoi Gyorgy;53
+Bodnar Orsolya;30
+Kophazi Reka Nora;16
+Ivacs Jozsef;33
+Sarkozi Bonita;69
+Denes Szabina;2
+Tombor Mercedesz;50
+Erdei Daniel Andras;6
+King Tamas;87
+Erdelyi Botond;0
+Baksay Ildiko;26
+Palfi Gyorgy;64
+Gyocsi Edit;64
+Matefi Antal Ferenc;51
+Ivancsik Reka;73
+Gonda Edina;70
+Vaszil Milan;93
+Willkins Anna;59
+Emho Oliver;54
+Meszaros Arpad;96
+Zsigmondi Eszter;0
+Regos Peter;60
+Patkai Netta;21
+Kiss Balazs Istvan;24
+Busi Dorottya;95
+Bajor Brigitta;72
+Vajnai Zsofia;73
+Kovacs Lujein;73
+Vancza Korl;96
+Denes Katalin;2
+Szikra Judit;53
+Jenes Andras;56
+Molnar Attila;84
+Miskolczi Gabor;33
+Fried Viktoria;68
+Szabados Marcell;89
+Csetnegi Zsofia;72
+Csanyi Zsofia;53
+Banfi Kristof;55
+Fekete Istvan;66
+Bartha Eva;50
+Pomothy Gergo;86
+Fialowski Pal;24
+Tverdota Nikolett;11
+Kovacs Marta;100
+Berghoffer Theodor;21
+Nagy Bettina;96
+Fialowski Bettina;78
+Bator Adam;1
+Fekete Kinga;93
+Dodsworth Noemi;56
+Somlyo Karoly;56
+Ivancsik Istvan;65
+Komlos Korl;94
+Jenes Beatrix;92
+Kovacs Botond;93
+Miskolczi Marton Istvan;8
+Nemeth Eszter Rita;92
+Szedresi Gergely;39
+Bodor Gabor;98
+Beres Ferenc;29
+Mate Pal;77
+Sitku Patricia Mercedesz;10
+Nemeth Ferenc;85
+Selley Szilvia;48
+Hangyasi Gabor;71
+Dorfler Tamas;80
+Bordas Janos Oszkar;31
+Varga Theodor;84
+Wellington Zsofia;85
+Csermenyi Zoltan;99
+Olay Zoltan;40
+Kiss Barbara;3
+Drexler Eszter;88
+Ivancsik Endre;45
+Hargitai Krisztina;15
+Szabados Alexandra;36
+Jakobi Lujein;9
+Czmarko Viktoria;25
+Kovacs Balazs Istvan;73
+Kelan Zsofia;76
+Patkai Christopher;95
+Kiss Mercedesz;71
+Szabo Gyula;3
+Schneider Edit;46
+Bartha Zoltan Csaba;97
+Kovacs Veronika;91
+Ivancsik Matyas;90
+Toman Barbara;41
+Selley Bernadett;75
+Arkossy Vivien Evelin;80
+Macz Balazs;80
+Szabo Andras;13
+Bilicska Viktoria;58
+Negyesi Andras;36
+Kovacs Anna;73
+Bodnar Frank;75
+Farkas David;39
+Vari Erno;64
+Komlos Aniko;28
+Peter Dora;41
+Pasztor Tunde;65
+LotsosRicky Viktoria;95
+Meszaros Zoltan;16
+Karatson Eszter Adel;94
+Palfi Eszter;16
+Kovacs Tamas;52
+Kiss Renato Pal;78
+Batkai Csaba;48
+Kovacs David;77
+Erdei Gyorgy;56
+Fulop Bence;99
+Nemeth Nikolett;66
+Lorinczi Barbara;67
+Kovacs Istvan;21
+Fekete Daniel;35
+Hozman Sandor;6
+Pronay Tibor;7
+Homola Emese;38
+Hollos Adrienn;52
+Sarvari Imre;80
+Batkai Richard;91
+Malovics Gergely;90
+Kardos Thomas;8
+Somogyvari Katalin;5
+Szanto Barnabas;19
+Kovacs Tunde;26
+Bernath Peter;46
+Vasarhelyi Noemi;52
+Onodi Eszter Adel;73
+Maltesics Gergely;40
+Halasz Reka;98
+Lorinczi Orsolya;46
+Varga Balazs;97
+Csornyei Bence;32
+Csornyei Csaba;11
+Bohdaneczky Marta;0
+Rabai Aron;54
+Bartha Emil;9
+Kis Martin;29
+Erdei Maria;44
+Csermenyi Andras;13
+Deri Gergely;42
+Varga Laura;65
+Nagy Marcell;18
+Farkas Zoltan;81
+Ignacz Balazs;14
+Izsak Kristof;47
+Nagy Julio;37
+Kovacs Peter;1
+Kovacs Zsofia;67
+Boros Tamas;68
+Drexler Ildiko;0
+Fulop Peter;11
+Goldberg Sandor;49
+Szalma Fruzsina;51
+Somlyo Martin;75
+Klezly Bence;86
+Kucsera Csaba;11
+Pinter Melinda;75
+Sandor Evelin;90
+Mattyus Anna;6
+Elek Bela;25
+Pal Antal;76
+Csigas Maria;36
+Reitmeyer Gabor;59
+Pridalko Zsolt;53
+Bajor Sandor;69
+Csepregi Kristof;34
+Nagy Dina;9
+Tompos Richard;34
+Weidinger Viktoria;52
+Berki Klaudia;99
+Emho Dorottya;8
+Hardy Csilla;7
+Farkas Andre;66
+Balogh Aniko;48
+Szentpetery Beatrix;25
+Salanki Fanni;91
+Csigas Jozsef;25
+Jambor Dora;4
+Lehotzky Istvan;80
+Miller Mercedesz Marta;8
+Izsak Andrea;51
+Kiss Kristof;6
+Resch Nancy;73
+Bodecs Roza;97
+Simon Istvan;35
+Refi Zoltan;48
+Jenes Arpad;81
+Maltesics Eszter;37
+Peacock Kristen;14
+Tapay Istvan;43
+Zsok Gabor;34
+Demeter Bence;40
+Vancza Zoltan;37
+Endredy Adam Gabor;89
+Davolio Fruzsina Borbala;66
+Szentes Maria;28
+Mozsar Rezso;60
+Hozman Piroska;28
+Goldberg Beata;45
+Sandor Tamas;12
+Demeny Daniel;28
+Marton Dorottya;67
+Kovacs Mercedesz Marta;14
+Tombor Erzsebet;69
+Farkas Monika;92
+Schneider Renato Pal;3
+Domokos Gergely;84
+Kulcsar Istvan;2
+Varga Emese;50
+Vari Laura;96
+Muller Nikolett;87
+Sarvari Dorottya;70
+Vas Laura;10
+Hamza Erno Gergo;99
+Pomothy Eleonora;75
+Kiss Zsuzsa;70
+Bodor Attila;64
+Forgacs Reka;63
+Cselotei Gergo;18
+Weidinger Richard;21
+Kovacs Anne;53
+Fuller Gabor;72
+Kovacs Natalia;20
+Forgacs Beatrix;9
+Lemak Netta;64
+Keri Fruzsina Borbala;69
+Selley Krisztian;71
+Elek Andrew;78
+Gergely Anna;83
+Palinkas Luca Sara;97
+Kallai Arnold;31
+Pifku Bettina;98
+Buros Laszlo Endre;59
+Neher Sandor;67
+Mirak Viktoria;80
+Bognar Andras;84
+Bartha Balazs;92
+Rosta Kristen;3
+Tompos Istvan;4
+Lendvai Kinga;31
+Deri Zsofia;64
+Zilahy Janet;79
+Czulek Veronika;88
+Klezly Dezso;19
+Mate Rahel;57
+Mattyus Nikoletta;65
+Berki Laszlo Ferenc;29
+Kiss Dezso;39
+Iszaly Mercedesz;13
+Denes Gergo;97
+Smith Gabor;65
+Pal Krisztina Judit;97
+Horvath Gabor;10
+Somogyvari Laura;24
+Pifku Erno Gergo;59
+Berezvai Gergely Bence;57
+Szekely Netta;47
+Gombaszogi Peter;4
+Dorfler Barbara;5
+Pucheli Edina;22
+Nemeth Tunde;33
+Katona Balazs;6
+Olay Kitti Noemi;20
+Falvay Veronika;53
+Arany Olga;65
+Farkas Virag;90
+Knipf Krisztian;11
+Izsak Zoltan;43
+Tompos Zsofia;18
+Fialowski Tunde;91
+Onodi Ildiko;78
+Molnar Agnes;61
+Pucheli Katalin;59
+Eizen Szabina;87
+Major Tamas;57
+Krizsan Vivien Evelin;75

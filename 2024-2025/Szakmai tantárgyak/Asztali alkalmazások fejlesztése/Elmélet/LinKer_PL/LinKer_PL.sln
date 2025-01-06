@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinKer_PL", "LinKer_PL\LinKer_PL.csproj", "{EA297408-88D3-41E6-A982-FE06CCFDCD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA297408-88D3-41E6-A982-FE06CCFDCD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA297408-88D3-41E6-A982-FE06CCFDCD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA297408-88D3-41E6-A982-FE06CCFDCD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA297408-88D3-41E6-A982-FE06CCFDCD96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3415439B-EC91-401F-ACDA-DC445E625CAB}
+	EndGlobalSection
+EndGlobal

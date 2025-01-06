@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatematikaiMuveletek_PL", "MatematikaiMuveletek_PL\MatematikaiMuveletek_PL.csproj", "{877202E6-AAFB-43B8-BBD7-FE994F93AAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877202E6-AAFB-43B8-BBD7-FE994F93AAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877202E6-AAFB-43B8-BBD7-FE994F93AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877202E6-AAFB-43B8-BBD7-FE994F93AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877202E6-AAFB-43B8-BBD7-FE994F93AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D1FB701-A441-40A7-A8EF-3DC53CB73513}
+	EndGlobalSection
+EndGlobal
