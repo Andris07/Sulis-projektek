@@ -1,0 +1,11 @@
+Feladat jegyszerzésre (nem választható)
+
+1. Írj egy függvényt, amely egy számokat tartalmazó tömböt kap bemenetként, és visszaad egy objektumot két tulajdonsággal: even (páros számok tömbje) és odd (páratlan számok tömbje).
+
+2. Írj egy függvényt, amely külön-külön kiszámolja egy számokat tartalmazó tömb pozitív és negatív elemeinek összegét.
+
+3. Írj egy függvényt, amely csoportosítja a számokat aszerint, hogy oszthatók-e egy adott osztóval.
+
+4. Írj egy függvényt, amely két csoportra osztja a számokat: az egyik csoportba az átlag felettiek, a másikba az átlag alattiak kerülnek.
+
+5. Írj egy függvényt, amely visszaadja a tömb leggyakrabban előforduló számát. Ha több ilyen van, elég az egyiket visszaadni.
