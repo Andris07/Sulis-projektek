@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS alapok</title>
+
+    <meta name="author" content="Laczkovics András Gergő">
+</head>
+<body>
+    <script>
+        // 4. feladat
+        let min1 = 0;
+        let max1 = 10;
+        let random_szam1 = Math.floor(Math.random() * (max1 - min1)) + min1;
+        console.log(`4. feladat: ${random_szam1}`);
+        // 5. feladat
+        let random_szam2 = Math.floor(Math.random() * (max1 - min1)) + min1;
+        let random_szam3 = Math.floor(Math.random() * (max1 - min1)) + min1;
+        console.log(`5. feladat a: ${random_szam2} és ${random_szam3}`);
+        console.log(`5. feladat b: ${random_szam2 + random_szam3}`);
+        console.log(`5. feladat c: ${random_szam2 - random_szam3}`);
+        console.log(`5. feladat d: ${random_szam2 * random_szam3}`);
+        console.log(`5. feladat e: ${Math.pow(random_szam2, random_szam3)}`);
+        // 6. feladat
+        let max2 = 100;
+        let random_szam4 = Math.floor(Math.random() * (max2 - min1)) + min1;
+        let random_szam5 = Math.floor(Math.random() * (max2 - min1)) + min1;
+        console.log(`6. feladat a: ${random_szam4} és ${random_szam5}`);
+        if (random_szam4 > random_szam5)
+        {
+            console.log(`6. feladat b: ${random_szam4} a nagyobb`);
+        }
+        else
+        {
+            console.log(`6. feladat b: ${random_szam5} a nagyobb`);
+        }
+        // 7. feladat
+        let max3 = 50;
+        let random_szam6 = Math.floor(Math.random() * (max3 - min1)) + min1;
+        console.log(`7. feladat a: ${random_szam6}`);
+        if (random_szam6%2 == 0)
+        {
+            console.log(`7. feladat b: ${random_szam6} osztható 2-vel maradék nélkül`);
+        }
+        else
+        {
+            console.log(`7. feladat b: ${random_szam6} nem osztható 2-vel maradék nélkül`);
+        }
+        // 8. feladat
+        let min2 = 10;
+        let random_szam7 = Math.floor(Math.random() * (max2 - min2)) + min2;
+        let random_szam8 = Math.floor(Math.random() * (max2 - min2)) + min2;
+        console.log(`8. feladat a: ${random_szam7} és ${random_szam8}`);
+        if (random_szam7%3 == 0)
+        {
+            console.log(`${random_szam7} osztható 3-mal`);
+        }
+        else if (random_szam8%3 == 0)
+        {
+            console.log(`${random_szam8} osztható 3-mal`);
+        }
+        else
+        {
+            console.log(`Egyik szám se osztható 3-mal`);
+        }
+    </script>
+    <!-- 9. feladat -->
+    <script src="week.js"></script>
+    <!-- 14. feladat -->
+    <script src="week.js"></script>
+    <!-- 22. feladat -->
+     <script src="geometry.js"></script>
+</body>
+</html>
