@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `kiadasok`;
 -- 4. feladat
@@ -21,12 +22,12 @@ SELECT `megnevezes` FROM `kiadasok` WHERE `nev`='Bence';
 -- 13. feladat
 SELECT COUNT(`megnevezes`) FROM `kiadasok` WHERE `nev`='Bence';
 -- 14. feladat
-SELECT `megnevezes`, (`mennyiseg`*`egysegar`) AS `fizetett` FROM `kiadasok` WHERE `nev`='Emese' ORDER BY (`mennyiseg`*`egysegar`) ASC;
+SELECT `megnevezes`, `mennyiseg`*`egysegar` AS `fizetett` FROM `kiadasok` WHERE `nev`='Emese' ORDER BY `mennyiseg`*`egysegar` ASC;
 -- 15. feladat
 SELECT SUM(`mennyiseg`*`egysegar`) AS `koltott` FROM `kiadasok` WHERE `nev`='Emese';
 -- 16. feladat
-SELECT `megnevezes`, `kategoria`, (`mennyiseg`*`egysegar`) AS `koltes` FROM `kiadasok` WHERE `nev`='Bence' OR `nev`='Emese' ORDER BY (`mennyiseg`*`egysegar`) DESC;
+SELECT `megnevezes`, `kategoria`, `mennyiseg`*`egysegar` AS `koltes` FROM `kiadasok` WHERE `nev`='Bence' OR `nev`='Emese' ORDER BY `mennyiseg`*`egysegar` DESC;
 -- 17. feladat
-SELECT `nev`, `megnevezes` FROM `kiadasok` ORDER BY (`mennyiseg`*`egysegar`) DESC LIMIT 5;
+SELECT `nev`, `megnevezes` FROM `kiadasok` ORDER BY `mennyiseg`*`egysegar` DESC LIMIT 5;
 -- 18. feladat
-SELECT `nev`, `megnevezes`, `egysegar` FROM `kiadasok` ORDER BY (`mennyiseg`*`egysegar`) DESC LIMIT 1;
+SELECT `nev`, `megnevezes`, `egysegar` FROM `kiadasok` ORDER BY `mennyiseg`*`egysegar` DESC LIMIT 1;
