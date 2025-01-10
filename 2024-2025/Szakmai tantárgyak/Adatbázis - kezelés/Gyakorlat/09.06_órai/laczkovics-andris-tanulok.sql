@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `tanulok`;
 -- 4. feladat
@@ -27,6 +28,6 @@ SELECT `vnev`, `knev`, `szul_ido` FROM `tanulok` WHERE `nem`='F' ORDER BY `szul_
 -- 16. feladat
 SELECT `vnev`, `knev`, `szul_ido` FROM `tanulok` WHERE `szul_hely`='Budapest' ORDER BY `szul_ido` DESC;
 -- 17. feladat
-SELECT * FROM `tanulok` WHERE `nem`='N' AND `magassag` >= 160 AND `magassag` <= 170 AND `nagycsalados` = '1' ORDER BY `szul_ido` DESC;
+SELECT * FROM `tanulok` WHERE `nem`='N' AND `magassag` <= 170 AND `magassag` >= 160 AND `nagycsalados` = '1' ORDER BY `szul_ido` DESC;
 -- 18. feladat
-SELECT * FROM `tanulok` WHERE `szul_hely`='Miskolc' AND `magassag`>=185;
+SELECT * FROM `tanulok` WHERE `szul_hely`='Miskolc' AND `magassag` >= 185;
