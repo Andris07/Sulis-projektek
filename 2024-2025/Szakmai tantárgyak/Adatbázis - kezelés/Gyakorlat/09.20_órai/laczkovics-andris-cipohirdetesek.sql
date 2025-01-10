@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `hirdetesek`;
 -- 4. feladat
@@ -13,7 +14,7 @@ SELECT `nev`, `gyarto`, `meret` FROM `hirdetesek` WHERE `meret` >= 42;
 -- 9. feladat
 SELECT * FROM `hirdetesek` WHERE `gyarto` IN('Gabika', 'Para');
 -- 10. feladat
-select `gyarto`, `ar` FROM `hirdetesek` WHERE `ar` >= 20000 AND `ar` <= 30000;
+select `gyarto`, `ar` FROM `hirdetesek` WHERE `ar` <= 30000 AND `ar` >= 20000;
 -- 11. feladat
 SELECT * FROM `hirdetesek` WHERE `gyarto`='Nipie' AND `szin`='fekete' AND MONTH(`lejarat`)=1;
 -- 12. feladat
