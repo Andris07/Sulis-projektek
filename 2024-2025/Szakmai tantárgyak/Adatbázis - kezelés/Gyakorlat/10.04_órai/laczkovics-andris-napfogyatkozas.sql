@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `napfogyatkozas` ORDER BY `datum` ASC;
 -- 4. feladat
