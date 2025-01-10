@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `felhokarcolok` ORDER BY `magassag` DESC;
 -- 4. feladat
@@ -35,8 +36,8 @@ SELECT `anyag`, COUNT(*) AS `db` FROM `felhokarcolok` WHERE ( `anyag` IS NOT NUL
 -- 20. feladat
 SELECT `varos` FROM `felhokarcolok` GROUP BY `varos` ORDER BY (AVG(`magassag`)) DESC LIMIT 1;
 -- 21. feladat
-SELECT `nev`, `magassag`, `emeletek`, ((`magassag`/`emeletek`)*100) AS `egy_emelet_cm` FROM `felhokarcolok` ORDER BY `egy_emelet_cm` DESC;
+SELECT `nev`, `magassag`, `emeletek`, (`magassag`/`emeletek`)*100 AS `egy_emelet_cm` FROM `felhokarcolok` ORDER BY `egy_emelet_cm` DESC;
 -- 22. feladat
 SELECT `orszagkod`, `varos`, COUNT(*) AS `db`, ROUND(AVG(`magassag`), 2) AS `atlag_magassag` FROM `felhokarcolok` GROUP BY `varos` ORDER BY `db` DESC, `atlag_magassag` ASC;
 -- 23. feladat
-SELECT `varos`, (MAX(`magassag`)-MIN(`magassag`)) AS `kulonbseg` FROM `felhokarcolok` GROUP BY `varos` ORDER BY `kulonbseg` DESC;
+SELECT `varos`, MAX(`magassag`)-MIN(`magassag`) AS `kulonbseg` FROM `felhokarcolok` GROUP BY `varos` ORDER BY `kulonbseg` DESC;
