@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `jegyek`;
 -- 4. feladat
@@ -5,7 +6,7 @@ SELECT `matematika`, `angol` FROM `jegyek` WHERE `nev`='Tóth Csaba';
 -- 5. feladat
 SELECT `nev`, `matematika`, `angol`, `prog_elm`, `prog_gyak`, `tortenelem`, `fizika` FROM `jegyek` WHERE `osztaly`='9a';
 -- 6. feladat
-SELECT ROUND(((`matematika`+`angol`+`prog_elm`+`prog_gyak`+`tortenelem`+`fizika`)/6), 4) AS 'átlag' FROM `jegyek` WHERE `nev`='Kovács Andrea';
+SELECT ROUND((`matematika`+`angol`+`prog_elm`+`prog_gyak`+`tortenelem`+`fizika`)/6, 4) AS 'átlag' FROM `jegyek` WHERE `nev`='Kovács Andrea';
 -- 7. feladat
 SELECT COUNT(*) AS `fo` FROM `jegyek` WHERE `osztaly` LIKE '9%';
 -- 8. feladat
