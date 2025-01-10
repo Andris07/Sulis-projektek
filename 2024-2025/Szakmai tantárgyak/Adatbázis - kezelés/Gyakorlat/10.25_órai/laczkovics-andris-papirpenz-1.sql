@@ -1,7 +1,8 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `papirpenz`;
 -- 4. feladat
-SELECT *, ROUND((`ertek`/420), 2) AS `Euróban` FROM `papirpenz` WHERE `penznem`='HUF';
+SELECT *, ROUND(`ertek`/420, 2) AS `Euróban` FROM `papirpenz` WHERE `penznem`='HUF';
 -- 5. feladat
 SELECT DISTINCT `penznem` FROM `papirpenz`;
 -- 6. feladat
