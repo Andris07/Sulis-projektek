@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `magyarorszag` ORDER BY `nepesseg` DESC;
 -- 4. feladat
@@ -29,11 +30,11 @@ SELECT `nev`, `terulet` FROM `magyarorszag` ORDER BY `terulet` DESC LIMIT 3;
 -- 17. feladat
 SELECT `nev`, `terulet` FROM `magyarorszag` WHERE `megye`='Somogy' ORDER BY `terulet` DESC LIMIT 3;
 -- 18. feladat
-SELECT `nev`, ROUND((`nepesseg`/`terulet`), 4) AS `nepsuruseg` FROM `magyarorszag` ORDER BY ROUND((`nepesseg`/`terulet`), 4) DESC LIMIT 1;
+SELECT `nev`, ROUND(`nepesseg`/`terulet`, 4) AS `nepsuruseg` FROM `magyarorszag` ORDER BY ROUND(`nepesseg`/`terulet`, 4) DESC LIMIT 1;
 -- 19. feladat
 SELECT SUM(`nepesseg`) AS `lakossag` FROM `magyarorszag` WHERE `tipus`='járásszékhely város';
 -- 20. feladat
-SELECT ROUND(SUM(`terulet`), 2) AS `osszterulet` FROM `magyarorszag` WHERE `varos_cim_elnyerese` IS NOT NULL AND `varos_cim_elnyerese` >= 2000 AND `varos_cim_elnyerese` <= 2012;
+SELECT ROUND(SUM(`terulet`), 2) AS `osszterulet` FROM `magyarorszag` WHERE `varos_cim_elnyerese` IS NOT NULL AND `varos_cim_elnyerese` <= 2012 AND `varos_cim_elnyerese` >= 2000;
 -- 21. feladat
 SELECT `megye`, SUM(`nepesseg`) AS `lakossag` FROM `magyarorszag` GROUP BY `megye` ORDER BY `megye` ASC;
 -- 22. feladat
