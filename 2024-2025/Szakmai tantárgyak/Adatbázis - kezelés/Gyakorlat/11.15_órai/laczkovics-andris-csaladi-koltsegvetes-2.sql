@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT `kategoria`, SUM(`mennyiseg`) AS `db` FROM `kiadasok` GROUP BY `kategoria` ORDER BY `db` ASC;
 -- 4. feladat
@@ -11,7 +12,7 @@ SELECT `kategoria`, MIN(`egysegar`) AS `minimum` FROM `kiadasok` GROUP BY `kateg
 -- 8. feladat
 SELECT `kategoria`, ROUND(AVG(`mennyiseg`*`egysegar`), 1) AS `koltes` FROM `kiadasok` WHERE `nev`='Lajos' OR `nev`='Mariann' GROUP BY `kategoria` ORDER BY `kategoria` ASC;
 -- 9. feladat
-SELECT `kategoria`, (`mennyiseg`*`egysegar`) AS `koltes` FROM `kiadasok` WHERE `nev`='Bence' OR `nev`='Emese' ORDER BY `koltes` DESC LIMIT 1;
+SELECT `kategoria`, `mennyiseg`*`egysegar` AS `koltes` FROM `kiadasok` WHERE `nev`='Bence' OR `nev`='Emese' ORDER BY `koltes` DESC LIMIT 1;
 -- 10. feladat
 SELECT `nev`, MIN(`mennyiseg`*`egysegar`) AS `legolcsobb_koltes`, MAX(`mennyiseg`*`egysegar`) AS `legdragabb_koltes` FROM `kiadasok` GROUP BY `nev` ORDER BY `nev` DESC;
 -- 11. feladat
