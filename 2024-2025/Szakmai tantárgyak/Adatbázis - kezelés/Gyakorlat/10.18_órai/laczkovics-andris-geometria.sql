@@ -1,3 +1,4 @@
+SET sql_mode = 'ANSI,ONLY_FULL_GROUP_BY';
 -- 3. feladat
 SELECT * FROM `teglalapok`;
 -- 4. feladat
@@ -31,4 +32,4 @@ SELECT ROUND(2*`r`*PI(), 2) AS `kerulet`, ROUND(POW(`r`, 2)*PI()) AS `terulet` F
 -- 18. feladat
 SELECT `szin`, `r`, 2*`r` AS `d` FROM `korok` WHERE (`szin`='piros' OR `szin`='kék');
 -- 19. feladat
-SELECT `szin`, CONCAT(ROUND(((PI()*POW(`r`, 2)) * 100), 3), ' mm') AS `terulet` FROM `korok` WHERE (`szin`='piros' OR `szin`='kék' OR `szin`='sárga') ORDER BY (PI()*POW(`r`, 2)) ASC;
+SELECT `szin`, CONCAT(ROUND(((PI()*POW(`r`, 2))*100), 3), ' mm') AS `terulet` FROM `korok` WHERE (`szin`='piros' OR `szin`='kék' OR `szin`='sárga') ORDER BY (PI()*POW(`r`, 2)) ASC;
