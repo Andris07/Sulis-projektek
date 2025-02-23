@@ -14,6 +14,8 @@ while (!fajl_beolvasas.EndOfStream && alkotok_db < 60)
     alkotok.Add(alkoto);
     alkotok_db++;
 }
+fajl_beolvasas.Close();
+
 for (int i = 0; i < alkotok_db; i++)
 {
     Console.WriteLine($"{alkotok[i].nev} {alkotok[i].ervenytelen+alkotok[i].ervenyes} szavazat, {alkotok[i].ervenytelen} érvénytelen és {alkotok[i].ervenyes} érvényes");
