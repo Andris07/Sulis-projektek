@@ -12,6 +12,7 @@ while (!fajl_beolvasas.EndOfStream && posztok_db < 20)
     posztok.Add(poszt);
     posztok_db++;
 }
+fajl_beolvasas.Close();
 
 // b feladat
 Console.WriteLine("b feladat");
