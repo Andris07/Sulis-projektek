@@ -12,6 +12,7 @@ while (!fajl_beolvasas.EndOfStream && osztalyok_db < 30)
     osztalyok.Add(osztaly);
     osztalyok_db++;
 }
+fajl_beolvasas.Close();
 
 // b feladat
 Console.WriteLine("b feladat");
